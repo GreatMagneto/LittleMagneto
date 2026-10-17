@@ -9,8 +9,7 @@
 ├── task 2/
 │   ├── photo3.png
 │   ├── photo4.png
-└── task 3/
-    ├── photo5.png
-    └── photo6.png
+    └── photo5.png
+
 ```
 
