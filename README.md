@@ -20,4 +20,6 @@
 │   └── photo9.png
 └── task5/
     └── photo10.png
+    ├── photo11.png
+    └── photo12.png
 ```
